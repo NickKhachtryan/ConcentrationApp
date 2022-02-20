@@ -14,6 +14,7 @@
 		BE6674C027C0EC8600A456DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE6674BF27C0EC8600A456DB /* Assets.xcassets */; };
 		BE6674C327C0EC8600A456DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE6674C127C0EC8600A456DB /* LaunchScreen.storyboard */; };
 		BE6674CB27C25F7E00A456DB /* ConcentrationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE6674CA27C25F7E00A456DB /* ConcentrationModel.swift */; };
+		BE6674CD27C2608100A456DB /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE6674CC27C2608100A456DB /* Card.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BE6674C227C0EC8600A456DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE6674C427C0EC8600A456DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BE6674CA27C25F7E00A456DB /* ConcentrationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationModel.swift; sourceTree = "<group>"; };
+		BE6674CC27C2608100A456DB /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				BE6674B827C0EC8600A456DB /* SceneDelegate.swift */,
 				BE6674BA27C0EC8600A456DB /* ViewController.swift */,
 				BE6674CA27C25F7E00A456DB /* ConcentrationModel.swift */,
+				BE6674CC27C2608100A456DB /* Card.swift */,
 				BE6674BC27C0EC8600A456DB /* Main.storyboard */,
 				BE6674BF27C0EC8600A456DB /* Assets.xcassets */,
 				BE6674C127C0EC8600A456DB /* LaunchScreen.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				BE6674BB27C0EC8600A456DB /* ViewController.swift in Sources */,
 				BE6674B727C0EC8600A456DB /* AppDelegate.swift in Sources */,
+				BE6674CD27C2608100A456DB /* Card.swift in Sources */,
 				BE6674B927C0EC8600A456DB /* SceneDelegate.swift in Sources */,
 				BE6674CB27C25F7E00A456DB /* ConcentrationModel.swift in Sources */,
 			);
